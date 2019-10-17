@@ -12,18 +12,18 @@ It will be used after every workout to log your workout, record this progress ov
 <br>
 <br>
 
-<h2> Function Requirments: </h2>
+<h2> Function Requirements: </h2>
 
 <ul> 
 	<li> Will be written in Python and use the Django framework </li>
-	<li> Most likey will use some form of front-end framework such as React, Vue.js ect </li>
+	<li> Most likey will use some form of front-end framework such as React, Vue.js, ect </li>
 	<li> Will connect to some kind of Database managements software to record the user input (ie: MySQL, ect) </li>
 	<li> Must store workouts, calculate 1RM, display this progress over time </li>
 </ul>
 
 <br>
 
-<h2> Non-Function Requirments: </h2>
+<h2> Non-Function Requirements: </h2>
 
 <ul> 
         <li> Will be a web-application, but be mobile responsive (since probably will be used on a phone device) </li>
