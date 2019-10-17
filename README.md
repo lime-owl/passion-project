@@ -12,7 +12,7 @@ It will be used after every workout to log your workout, record this progress ov
 <br>
 <br>
 
-<h2> Function Requirements: </h2>
+<h2> Functional Requirements: </h2>
 
 <ul> 
 	<li> Will be written in Python and use the Django framework </li>
@@ -23,7 +23,7 @@ It will be used after every workout to log your workout, record this progress ov
 
 <br>
 
-<h2> Non-Function Requirements: </h2>
+<h2> Non-Functional Requirements: </h2>
 
 <ul> 
         <li> Will be a web-application, but be mobile responsive (since probably will be used on a phone device) </li>
