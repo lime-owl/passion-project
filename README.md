@@ -1,4 +1,5 @@
 # The Strength Training Tracker
+<br>
 
 <h2> Pitch: </h2>
 
@@ -8,6 +9,8 @@ I find it very useful to know and train around optimizing my one rep max (https:
 
 It will be used after every workout to log your workout, record this progress over time, and give you insights into what you should do in order to maximize your time in the gym.  </p>
 
+<br>
+<br>
 
 <h2> Function Requirments: </h2>
 
@@ -17,6 +20,7 @@ It will be used after every workout to log your workout, record this progress ov
 	<li> Must store workouts, calculate 1RM, display this progress over time </li>
 </ul>
 
+<br>
 
 <h2> Non-Function Requirments: </h2>
 
