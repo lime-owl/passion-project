@@ -1,6 +1,4 @@
-# passion-project
-
-<h1> Fitness Tracker </h1>
+# The Strength Training Tracker
 
 <h2> Pitch: </h2>
 
