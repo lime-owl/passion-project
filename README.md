@@ -21,8 +21,8 @@ It will be used after every workout to log your workout, record this progress ov
 <h2> Non-Function Requirments: </h2>
 
 <ul> 
-        <li> Will be a web-application, but be mobile responsive (since probably will be used on a phone device) </ul>
-	<li> Use helpful visual representation ie; graphs ect </ul>
+        <li> Will be a web-application, but be mobile responsive (since probably will be used on a phone device) </li>
+	<li> Use helpful visual representation ie; graphs ect </li>
 </ul>
 
 
