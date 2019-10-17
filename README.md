@@ -36,8 +36,6 @@ It will be used after every workout to log your workout, record this progress ov
 
 <h2> to-do: </h2>
 
-- Create a prioritized feature list. Break your features into “Must Have” and “Nice to Have”. Using a tool (ie. Draw.io or Visio), create an entity relationship diagram.
+- Using a tool (ie. Draw.io or Visio), create an entity relationship diagram.
   
 - Create a high-fidelity prototype that accurately summarizes the different user flows for your must-have features.
-
-- Create and prioritize issues for your must-have features. Recall that you can also add sub-tasks to an issue to help clearly track what is required to build a feature.
