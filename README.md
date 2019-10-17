@@ -25,7 +25,11 @@ It will be used after every workout to log your workout, record this progress ov
 	<li> Use helpful visual representation ie; graphs ect </li>
 </ul>
 
+<br>
+<br>
+<br>
 
+<h2> to-do: </h2>
 
 - Create a prioritized feature list. Break your features into “Must Have” and “Nice to Have”. Using a tool (ie. Draw.io or Visio), create an entity relationship diagram.
   
