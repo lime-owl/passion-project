@@ -40,8 +40,4 @@ It will be used after every workout to log your workout, record this progress ov
   
 - Create a high-fidelity prototype that accurately summarizes the different user flows for your must-have features.
 
-- Create a repository in Github to track the progress of your project. Use the Automated Kanban project template. 
-
 - Create and prioritize issues for your must-have features. Recall that you can also add sub-tasks to an issue to help clearly track what is required to build a feature.
-
-- Create issues for any other general tasks that are not directly related to a feature (ie. investigating hosting services).
