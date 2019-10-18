@@ -40,8 +40,3 @@ It will be used after every workout to log your workout, record this progress ov
 <br>
 <br>
 <img src="wire-frame.png" />
-
-
-<h2> to-do: </h2>
-
-- Using a tool (ie. Draw.io or Visio), create an entity relationship diagram.
