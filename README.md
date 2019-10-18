@@ -36,7 +36,7 @@ It will be used after every workout to log your workout, record this progress ov
 
 <h2> User-Flow Prototype </h2>
 <br>
-<p> Here is a basic wirframe mock-up of the application's features: </p>
+<p> Here is a basic wireframe mock-up of the application's features: </p>
 <br>
 <br>
 <img src="wire-frame.png" />
