@@ -37,5 +37,3 @@ It will be used after every workout to log your workout, record this progress ov
 <h2> to-do: </h2>
 
 - Using a tool (ie. Draw.io or Visio), create an entity relationship diagram.
-  
-- Create a high-fidelity prototype that accurately summarizes the different user flows for your must-have features.
