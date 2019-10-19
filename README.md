@@ -42,6 +42,7 @@ It will be used after every workout to log your workout, record this progress ov
 <img src="wire-frame.png" />
 <br>
 <br>
+<br>
 <h2> Application Schema: </h2> 
 <br>
 <img src="erd_schema.png" />
